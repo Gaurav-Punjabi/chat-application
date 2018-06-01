@@ -28,4 +28,4 @@ A login is also provided for the maintaing the security of the application.
 ![Screenshot](login-page.png)
 
 ***Main Chat Page***
-![Screenshot](main-chat-page.png)
+![Screenshot](main-page.png)
